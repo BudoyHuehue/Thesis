@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Session activeView="1">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="382" xOffset="0" scrollWidth="1712" startPos="10296" endPos="10296" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Budoy\Desktop\thesis\prog\thesis.cpp">
+                <Mark line="396" />
+                <Mark line="405" />
+            </File>
+        </mainView>
+        <subView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1813" startPos="128" endPos="128" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Budoy\Desktop\CMSC191\output2.cpp" />
+            <File firstVisibleLine="223" xOffset="0" scrollWidth="1200" startPos="6087" endPos="6087" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Users\Budoy\Documents\scilab\thesis.sce" />
+            <File firstVisibleLine="75" xOffset="0" scrollWidth="1521" startPos="4047" endPos="4047" selMode="0" lang="C++" encoding="-1" filename="C:\Users\Budoy\Desktop\thesis\prog\thesis.cpp">
+                <Mark line="396" />
+                <Mark line="405" />
+            </File>
+        </subView>
+    </Session>
+</NotepadPlus>

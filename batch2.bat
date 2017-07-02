@@ -1,0 +1,15 @@
+thesis > result16.txt
+thesis > result17.txt
+thesis > result18.txt
+thesis > result19.txt
+thesis > result20.txt
+thesis > result21.txt
+thesis > result22.txt
+thesis > result23.txt
+thesis > result24.txt
+thesis > result25.txt
+thesis > result26.txt
+thesis > result27.txt
+thesis > result28.txt
+thesis > result29.txt
+thesis > result30.txt
